@@ -1,4 +1,4 @@
 # Bharatsii
 This is my first repo
 <br>
-auther name - Bharat Singh
+auther name - Bharat Singh(demo)
